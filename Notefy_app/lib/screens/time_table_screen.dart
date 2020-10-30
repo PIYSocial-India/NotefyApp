@@ -1,16 +1,16 @@
 import 'package:flutter/material.dart';
 
-class NotesScreen extends StatefulWidget {
+class TimeTableScreen extends StatefulWidget {
   @override
-  _NotesScreenState createState() => _NotesScreenState();
+  _TimeTableScreenState createState() => _TimeTableScreenState();
 }
 
-class _NotesScreenState extends State<NotesScreen> {
+class _TimeTableScreenState extends State<TimeTableScreen> {
   @override
   Widget build(BuildContext context) {
     return Center(
       child: Text(
-        "This is notes screen!!",
+        "This is time table screen!!",
         style: TextStyle(
           color: Colors.black,
           fontWeight: FontWeight.bold,

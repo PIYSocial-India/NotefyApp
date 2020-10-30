@@ -1,16 +1,16 @@
 import 'package:flutter/material.dart';
 
-class NotesScreen extends StatefulWidget {
+class NoticeScreen extends StatefulWidget {
   @override
-  _NotesScreenState createState() => _NotesScreenState();
+  _NoticeScreenState createState() => _NoticeScreenState();
 }
 
-class _NotesScreenState extends State<NotesScreen> {
+class _NoticeScreenState extends State<NoticeScreen> {
   @override
   Widget build(BuildContext context) {
     return Center(
       child: Text(
-        "This is notes screen!!",
+        "This is notice screen!!",
         style: TextStyle(
           color: Colors.black,
           fontWeight: FontWeight.bold,
