@@ -1,4 +1,4 @@
 # NotefyApp
 App.
 
-<img src = 'Screenshots/ss1.png;>
+<img src = 'Screenshots/ss1.png'>
