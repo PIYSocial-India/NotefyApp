@@ -140,7 +140,7 @@ class _NotesScreenState extends State<NotesScreen> {
             backgroundColor: Colors.black,
             label: "EE/EEE",
             icon: Icon(
-              Icons.computer,
+              Icons.electrical_services,
             ),
           ),
           BottomNavigationBarItem(
